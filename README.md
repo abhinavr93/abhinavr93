@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinavr93
-- 👀 A coder with interest and experience in development of CFD (Computational Fluid Dynamics) Software using 
+- 👀 I'm a coder with interest and experience in development of CFD (Computational Fluid Dynamics) Software using 
 C++ and CMake. 
 
 <!---
